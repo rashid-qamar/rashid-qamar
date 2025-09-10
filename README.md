@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>## Hello 👋, I'm Rashid Qamar</h1>
+  <h1>Hello 👋, I'm Rashid Qamar</h1>
   <p>Data Science Enthusiast </p>
 </div>
 
