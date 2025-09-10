@@ -6,7 +6,7 @@
 
 - Data Science Enthusiast | Pursing B tech
 - Computer Science & Information Technology | MANUU 🦋
-- 🌱 I’m currently pursing B Tech (CSE)
+- Learning DSA with C++ | IT Workshop with Python
 - 📩 Email: rashidqamar841419@gmail.com
 - 📍 Hyderabad
 
