@@ -7,3 +7,7 @@ Excited to Learn Technologies..
 
 - 🌱 I’m currently pursing B Tech (CSE)
 - 📫 How to reach me: rashidqamar841419@gmail.com
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
