@@ -1,16 +1,29 @@
 <div align="center">
   <h1>Hello 👋, I'm Rashid Qamar</h1>
-  <p>Data Science Enthusiast </p>
 </div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rashid-qamar.rashid-qamar)
 
-Excited to Learn Technologies..
-
-
+- Data Science Enthusiast | Pursing B tech
+- Computer Science & Information Technology | MANUU 🦋
 - 🌱 I’m currently pursing B Tech (CSE)
-- 📫 Email: rashidqamar841419@gmail.com
+- 📩 Email: rashidqamar841419@gmail.com
+- 📍 Hyderabad
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+<div align="center">
+  <h3>See me on..</h3>
+  <a href="mailto:rashidqamar841419@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/rashid-qamar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/RashidQ60876701">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://github.com/hrashid-qamar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
