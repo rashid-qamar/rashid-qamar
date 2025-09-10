@@ -11,6 +11,9 @@
 - 📍 Hyderabad
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashid-qamar&layout=compact&hide=html,css&langs_count=6&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <div align="center">
   <h3>See me on..</h3>
