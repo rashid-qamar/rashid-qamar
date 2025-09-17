@@ -16,7 +16,7 @@
 
 
 <div align="center">
-  <h3>See me on..</h3>
+  <h3>Explore me..</h3>
   <a href="mailto:rashidqamar841419@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
