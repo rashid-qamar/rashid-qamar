@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>Hello 👋, I'm Rashid Qamar</h1>
+  <h1>Hello 👋, I'm Rashid</h1>
 </div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rashid-qamar.rashid-qamar)
 
-- Data Science Enthusiast | Pursing B tech
+- Data Science Enthusiast | Pursuing B tech
 - Computer Science & Information Technology | MANUU 🦋
 - Learning DSA with C++ | IT Workshop with Python
 - 📩 Email: rashidqamar841419@gmail.com
